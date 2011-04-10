@@ -5,7 +5,7 @@ A visualized, folksonomy’d work task inventory experiment. Not much to it, but
 
 [![Things We Do](http://iamnotagoodartist.com/wp-content/uploads/2010/06/thingswedo.jpg)](http://thingswedo.emergingmediainitiative.com/)
 
-__Demo:__ [thingswedo.emergingmediainitiative.com](http://thingswedo.emergingmediainitiative.com/)
+__Demo:__ [thingswedo.emergingmediainitiative.com](http://thingswedo.emergingmediainitiative.com/)  
 __Blog Post:__ [iamnotagoodartist.com/web/things-we-do](http://iamnotagoodartist.com/web/things-we-do/)
 
 ### Requirements and Instructions
@@ -28,11 +28,9 @@ Uses these jQuery plugins:
 * [autoResize](http://james.padolsey.com/javascript/jquery-plugin-autoresize/)
 * [Tag Suggestions](http://remysharp.com/2007/12/28/jquery-tag-suggestion/)
 
-### Notes:
+### Notes
 
-Install in a root if you don't want to change all the location redirects and form actions. I'll leave it up to you to figure it out if you decide otherwise.
+Install in a root if you don't want to change all the location redirects and form actions. I'll leave it up to you to figure it out if you decide otherwise. And, yeah, I know the single username/password security isn't very substantial. Beef it up if you care to.
 
-Yes, I know the single username/password security isn't very substantial. Beef it up if you care to.
-
-Love,
+Love,  
 [Tommy](http://iamnotagoodartist.com/)
