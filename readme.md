@@ -1,13 +1,12 @@
 "Things We Do" App by iamnotagoodartist
 =======================================
 
-A visualized, folksonomy’d work task inventory experiment. Not much to it, but probably better seen than explained.
+A visualized, folksonomy’d work task inventory experiment. Not much to it, but probably better seen than explained. Just click on things and use your arrow keys.
 
-![Things We Do](http://iamnotagoodartist.com/wp-content/uploads/2010/06/thingswedo.jpg)
+[![Things We Do](http://iamnotagoodartist.com/wp-content/uploads/2010/06/thingswedo.jpg)](http://thingswedo.emergingmediainitiative.com/)
 
-__Demo:__ [iamnotagoodartist.com/web/things-we-do/](http://iamnotagoodartist.com/design/things-we-do/)
-
-Just click on things and use your arrow keys.
+__Demo:__ [thingswedo.emergingmediainitiative.com](http://thingswedo.emergingmediainitiative.com/)
+__Blog Post:__ [iamnotagoodartist.com/web/things-we-do](http://iamnotagoodartist.com/web/things-we-do/)
 
 ### Requirements and Instructions
 
